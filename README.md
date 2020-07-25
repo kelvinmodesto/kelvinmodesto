@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, my name is Kelvin Modesto 👋
 
-<!--
-**kelvinmodesto/kelvinmodesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer, graduated in Computer Science from the Universidade Federal de Sergipe, with development experience since 2016, mainly in JavaScript environments. I'm interested in APIs, Sockets, Microservices, SPAs, PWAs and APPs. I am an eternal student, curious, team worker and passionate about the idea to participate in project from differents markets.
 
-Here are some ideas to get you started:
+#### Taking Node.js and Javascript as main technologies, with hands on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Express, Meteor, Adonis REST API and MVC
+- ORMs (Sequelize, Mongoose e etc), 
+- SQL (MSSQL, PostgreSQL, MySQL), NoSQL(MongoDb).
+- SPAs with React, Angular and Ionic
+- ES6, TypeScript, HTML5, CSS3, Sass, Bulma, Materialize, Bootstrap, Webpack and Gulp
+
+### Extras
+- 🔭 I’m currently working on [Sabion](http://sabion.com.br/)
+- 🌱 I’m currently learning AWS, DynamoDB, Lambda Layers with Node.js and Serverless framework
+- 👯 I’m looking to collaborate on JavaScript/Node.js projects
+- 💬 Ask me about Node.js, JavaScript, TypeScript and Design Patterns
+- 📫 You can find all my socialmedia at [LinkedIn](https://www.linkedin.com/in/kelvinmodesto/)
+- 👋 my hobbies are Anime, Movies, Manga and Books
