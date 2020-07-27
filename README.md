@@ -1,6 +1,6 @@
 ## Hi there, my name is Kelvin Modesto 👋
 
-I am a Software Developer, graduated in Computer Science from the Universidade Federal de Sergipe, with development experience since 2016, mainly in JavaScript environments. I'm interested in APIs, Sockets, Microservices, SPAs, PWAs and APPs. I am an eternal student, curious, team worker and passionate about the idea to participate in project from differents markets.
+I am a Software Developer, graduated in Computer Science from the Universidade Federal de Sergipe, with development experience since 2016, mainly in JavaScript environments. I'm interested in APIs, Sockets, Microservices, SPAs, PWAs and APPs. I am an eternal student, curious, team worker and passionate about the idea to participate in projects from differents areas.
 
 #### Taking Node.js and Javascript as main technologies, with hands on:
 
