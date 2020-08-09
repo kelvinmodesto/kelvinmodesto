@@ -4,9 +4,9 @@ I am a Software Developer, graduated in Computer Science from the Universidade F
 
 #### Taking Javascript and Node.js as main technologies, with hands on:
 
+- Express and Meteor
 - SPAs with React and Angular
 - ES6, TypeScript, HTML5, CSS3, Sass, Bulma, Materialize, Bootstrap, Webpack and Gulp
-- Express and Meteor
 - ORMs (Sequelize, Mongoose e etc)
 - SQL (MSSQL, PostgreSQL, MySQL), NoSQL(MongoDb).
 
