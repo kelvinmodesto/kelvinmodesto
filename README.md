@@ -5,10 +5,10 @@ I am a Software Developer, graduated in Computer Science from the Universidade F
 #### Taking Javascript and Node.js as main technologies, with hands on:
 
 - Express and Meteor
-- SPAs with React and Angular
-- ES6, TypeScript, HTML5, CSS3, Sass, Bulma, Materialize, Bootstrap, Webpack and Gulp
 - ORMs (Sequelize, Mongoose e etc)
+- ES6, TypeScript, HTML5, CSS3, Sass, Bulma, Materialize, Bootstrap, Webpack and Gulp
 - SQL (MSSQL, PostgreSQL, MySQL), NoSQL(MongoDb).
+- SPAs with React and Angular
 
 ### Extras
 - 🔭 I’m currently working on [Sabion](http://sabion.com.br/)
