@@ -14,5 +14,4 @@ I am a Software Developer, graduated in Computer Science from the Universidade F
 - 🔭 I’m currently working on [Invillia](https://invillia.com/)
 - 👯 I’m looking to collaborate on JavaScript/React/Node.js projects
 - 💬 Ask me about JavaScript, Node.js, TypeScript, React and Design Patterns
-- 📫 You can find all my socialmedia at [LinkedIn](https://www.linkedin.com/in/kelvinmodesto/)
 - 👋 my hobbies are Anime, Movies, Manga and Books
