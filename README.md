@@ -1,5 +1,8 @@
 ## Hi there, my name is Kelvin Modesto 👋
 
+[![Linkedin: kelvinmodesto](https://img.shields.io/badge/-kelvinmodesto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslleynrocha/)](https://www.linkedin.com/in/kelvinmodesto/)
+[![GitHub kelvinmodesto](https://img.shields.io/github/followers/kelvinmodesto?label=follow&style=social)](https://github.com/kelvinmodesto)
+
 I am a Software Developer, graduated in Computer Science from the Universidade Federal de Sergipe, with development experience since 2016, mainly in JavaScript environments. I'm interested in SPAs, PWAs and APPs. I am an eternal student, curious, team worker and passionate about the idea to participate in projects from differents areas.
 
 #### Taking React.js and Node.js as main technologies, with hands on:
