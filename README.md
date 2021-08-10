@@ -16,7 +16,7 @@ const myself = {
   tools: {
     mobile: ["Ionic"],
     frontEnd: {
-      js: ["React", "Redux", "Storybook", "Styled-Components", "Next"],
+      js: ["React", "Redux", "Storybook", "Styled-Components", "Next", "Meteor"],
       css: ["material-ui", "bulma", "bootstrap"]
     },
     backEnd: ["node"],
