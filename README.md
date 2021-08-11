@@ -9,19 +9,19 @@
 
 ```javascript
 const myself = {
-  workingStatus: "On frontend development",
-  learningBacklog: ["React-Native", "Recoil", "Vue"],
-  languages: ["Javascript", "Typescript" ],
-  misc: ["HTML", "CSS"],
+  workingStatus: 'On frontend development',
+  learningBacklog: ['React-Native', 'Recoil', 'Vue'],
+  languages: ['Javascript', 'Typescript' ],
+  misc: ['HTML', 'CSS'],
   tools: {
-    mobile: ["Ionic"],
+    mobile: ['Ionic'],
     frontEnd: {
-      js: ["React", "Redux", "Storybook", "Styled-Components", "Next", "Meteor"],
-      css: ["material-ui", "bulma", "bootstrap"]
+      js: ['React', 'Redux', 'Storybook', 'Styled-Components', 'Next', 'Meteor'],
+      css: ['material-ui', 'bulma', 'bootstrap', 'emotion']
     },
-    backEnd: ["node"],
-    testing: ["Jest", "react-testing-library"],
+    backEnd: ['node'],
+    testing: ['Jest', 'react-testing-library'],
   },
-  hobbies: ["anime", "games", "manga", "movies", "pets"],
+  hobbies: ['anime', 'games', 'manga', 'movies', 'pets'],
 }
 ```
