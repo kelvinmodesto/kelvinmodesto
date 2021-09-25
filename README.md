@@ -10,7 +10,7 @@
 ```javascript
 const myself = {
   workingStatus: 'On frontend development',
-  learningBacklog: ['React-Native', 'Recoil', 'Svelte'],
+  learningBacklog: ['React-Native', 'Recoil', 'Custom Hooks'],
   languages: ['Javascript', 'Typescript' ],
   misc: ['HTML', 'CSS'],
   tools: {
