@@ -1,6 +1,5 @@
 <h2> Hi, my name is Kelvin Modesto! </h2>
-<p><em>Frontend Developer at <a href="http://www.invillia.com">Invillia</a>
-</br>Developer Consultant at <a href="https://www.paygo.com.br">PayGo</a>
+<p><em>Frontend Developer at <a href="http://www.globant.com">Globant</a>
 </em></p>
 
 
