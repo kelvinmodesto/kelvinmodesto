@@ -9,7 +9,7 @@
 ```javascript
 const myself = {
   workingStatus: 'On frontend development',
-  learningBacklog: ['React-Native', 'Svelte', 'Custom Hooks', 'React 18', 'GraphQL'],
+  learningBacklog: ['Custom Hooks', 'React 18', 'GraphQL'],
   languages: ['Javascript', 'Typescript' ],
   misc: ['HTML', 'CSS'],
   tools: {
