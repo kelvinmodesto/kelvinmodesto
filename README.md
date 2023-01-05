@@ -1,6 +1,5 @@
 <h2> Hi, my name is Kelvin Modesto! </h2>
-<p><em>Frontend Developer at <a href="http://www.globant.com">Globant</a>
-</em></p>
+<p><em>Frontend Developer</em></p>
 
 
 [![Linkedin: kelvinmodesto](https://img.shields.io/badge/-kelvinmodesto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvinmodesto/)](https://www.linkedin.com/in/kelvinmodesto/)
