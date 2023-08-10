@@ -12,14 +12,14 @@ const myself = {
   languages: ['Javascript', 'Typescript' ],
   misc: ['HTML', 'CSS'],
   tools: {
-    mobile: ['Ionic'],
+    mobile: ['Ionic', 'React Native'],
     frontEnd: {
       js: ['React', 'Redux', 'Storybook', 'Styled-Components', 'Next', 'Meteor'],
       css: ['material-ui', 'bulma', 'bootstrap', 'emotion']
     },
     backEnd: ['node'],
-    testing: ['Jest', 'react-testing-library'],
+    testing: ['Jest', 'react-testing-library', 'cypress'],
   },
-  hobbies: ['anime', 'games', 'manga', 'movies', 'pets'],
+  hobbies: ['anime', 'nintendo', 'manga', 'movies', 'pets'],
 }
 ```
