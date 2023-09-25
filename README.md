@@ -8,13 +8,13 @@
 ```javascript
 const myself = {
   workingStatus: 'On frontend development',
-  learningBacklog: ['Custom Hooks', 'React 18', 'GraphQL', 'micro frontend'],
+  learningBacklog: ['Svelte', 'React 18', 'GraphQL', 'micro frontend'],
   languages: ['Javascript', 'Typescript' ],
   misc: ['HTML', 'CSS'],
   tools: {
     mobile: ['Ionic', 'React Native'],
     frontEnd: {
-      js: ['React', 'Redux', 'Storybook', 'Styled-Components', 'Next', 'Meteor'],
+      js: ['React', 'Redux', 'Svelte', 'Next', 'Meteor', 'Angular'],
       css: ['material-ui', 'bulma', 'bootstrap', 'emotion']
     },
     backEnd: ['node'],
