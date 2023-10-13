@@ -20,6 +20,6 @@ const myself = {
     backEnd: ['node', 'php', 'c#'],
     testing: ['Jest', 'react-testing-library', 'cypress', 'PlayWright'],
   },
-  hobbies: ['anime', 'nintendo', 'manga', 'movies', 'pets'],
+  hobbies: ['anime', 'nintendo', 'manga', 'nba', 'pets'],
 }
 ```
