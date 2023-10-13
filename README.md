@@ -8,17 +8,17 @@
 ```javascript
 const myself = {
   workingStatus: 'On frontend development',
-  learningBacklog: ['Svelte', 'React 18', 'GraphQL', 'micro frontend'],
+  learningBacklog: ['Svelte', 'Svelte Kit','Vue', 'Pinia', 'React 18', 'GraphQL'],
   languages: ['Javascript', 'Typescript' ],
   misc: ['HTML', 'CSS'],
   tools: {
     mobile: ['Ionic', 'React Native'],
     frontEnd: {
-      js: ['React', 'Redux', 'Svelte', 'Next', 'Meteor', 'Angular'],
-      css: ['material-ui', 'bulma', 'bootstrap', 'emotion']
+      js: ['React', 'Redux', 'Next', 'Meteor', 'Angular', 'React-Query'],
+      css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss', 'Less']
     },
-    backEnd: ['node'],
-    testing: ['Jest', 'react-testing-library', 'cypress'],
+    backEnd: ['node', 'php', 'c#'],
+    testing: ['Jest', 'react-testing-library', 'cypress', 'PlayWright'],
   },
   hobbies: ['anime', 'nintendo', 'manga', 'movies', 'pets'],
 }
