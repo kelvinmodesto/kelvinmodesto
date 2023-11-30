@@ -8,7 +8,7 @@
 ```javascript
 const myself = {
   workingStatus: 'On frontend development',
-  learningBacklog: ['Svelte', 'Svelte Kit','Vue', 'Pinia', 'React 18', 'GraphQL', 'Electron'],
+  learningBacklog: ['Node.js advanced', 'React 18', 'GraphQL'],
   languages: ['Javascript', 'Typescript' ],
   misc: ['HTML', 'CSS'],
   tools: {
