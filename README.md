@@ -8,7 +8,8 @@
 ```javascript
 const myself = {
   workingStatus: 'On frontend development',
-  learningBacklog: ['Node.js advanced', 'React 18', 'GraphQL'],
+  learningBacklog: ['Advanced Node.js', 'React 18', 'GraphQL'],
+  goals: ['JSNAD', 'JSNSD'],
   languages: ['Javascript', 'Typescript' ],
   misc: ['HTML', 'CSS'],
   tools: {
