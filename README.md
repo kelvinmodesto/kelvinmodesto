@@ -7,19 +7,20 @@
 
 ```javascript
 const myself = {
-  workingStatus: 'On frontend development',
+  workingStatus: 'On javascript development',
   learningBacklog: ['Advanced Node.js', 'React 18', 'GraphQL'],
   goals: ['JSNAD', 'JSNSD'],
-  languages: ['Javascript', 'Typescript' ],
-  misc: ['HTML', 'CSS'],
+  languages: ['Javascript', 'Java', 'C#', 'php'],
+  misc: ['HTML', 'CSS', 'Typescript'],
   tools: {
     mobile: ['Ionic', 'React Native'],
     frontEnd: {
       js: ['React', 'Redux', 'Next', 'Meteor', 'Angular', 'React-Query'],
       css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss', 'Less']
     },
-    backEnd: ['node', 'php', 'c#'],
+    backEnd: ['Node.js', 'php', 'c#'],
     testing: ['Jest', 'react-testing-library', 'cypress', 'PlayWright'],
+    database: ['MongoDB', 'Postgres', 'MySQL'],
   },
   hobbies: ['anime', 'nintendo', 'manga', 'nba', 'pets'],
 }
