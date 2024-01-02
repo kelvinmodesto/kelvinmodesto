@@ -8,7 +8,7 @@
 ```javascript
 const myself = {
   workingStatus: 'On javascript development',
-  learningBacklog: ['Advanced Node.js', 'React 18', 'GraphQL'],
+  learningBacklog: ['Advanced Node.js', 'React 18'],
   goals: ['JSNAD', 'JSNSD'],
   languages: ['Javascript', 'Java', 'C#', 'php'],
   misc: ['HTML', 'CSS', 'Typescript'],
@@ -19,7 +19,7 @@ const myself = {
       css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss', 'Less']
     },
     backEnd: ['Node.js', 'php', 'c#'],
-    testing: ['Jest', 'react-testing-library', 'cypress', 'PlayWright'],
+    testing: ['Jest', 'react-testing-library', 'cypress', 'PlayWright', 'mocha', 'chai'],
     database: ['MongoDB', 'Postgres', 'MySQL'],
   },
   hobbies: ['anime', 'nintendo', 'manga', 'nba', 'pets'],
