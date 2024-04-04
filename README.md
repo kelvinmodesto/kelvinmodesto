@@ -6,10 +6,9 @@
 ```javascript
 const myself = {
   workingStatus: 'On javascript development',
-  learningBacklog: ['Advanced Node.js', 'React 18'],
-  goals: ['JSNAD', 'JSNSD'],
-  languages: ['Javascript', 'Java', 'C#', 'php'],
-  misc: ['HTML', 'CSS', 'Typescript'],
+  learningBacklog: ['Advanced Node.js', 'React 18', 'GraphQL'],
+  languages: ['Javascript', 'Java', 'C#', 'PHP'],
+  misc: ['HTML', 'CSS', 'TypeScript'],
   tools: {
     mobile: ['Ionic', 'React Native'],
     frontEnd: {
