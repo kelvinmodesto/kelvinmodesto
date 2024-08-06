@@ -6,18 +6,18 @@
 ```javascript
 const myself = {
   workingStatus: 'On javascript development',
-  learningBacklog: ['Advanced Node.js', 'React 19', 'GraphQL'],
+  learningBacklog: ['Advanced Node.js', 'React 19', 'Rust'],
   languages: ['Javascript', 'Java', 'C#', 'PHP'],
   misc: ['HTML', 'CSS', 'TypeScript'],
   tools: {
     mobile: ['Ionic', 'React Native'],
     frontEnd: {
-      js: ['React', 'Redux', 'Next', 'Meteor', 'Angular', 'React-Query'],
+      js: ['React', 'Redux', 'Next', 'Meteor', 'Angular', 'React-Query',],
       css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss', 'Less']
     },
     backEnd: ['Node.js', 'php', 'c#'],
     testing: ['Jest', 'react-testing-library', 'cypress', 'PlayWright', 'mocha', 'chai'],
-    database: ['MongoDB', 'Postgres', 'MySQL'],
+    database: ['MongoDB', 'Postgres', 'MySQL', 'GraphQL'],
   },
   hobbies: ['anime', 'nintendo', 'manga', 'nba', 'pets'],
 }
