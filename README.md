@@ -12,7 +12,7 @@ const myself = {
   tools: {
     mobile: ['Ionic', 'React Native'],
     frontEnd: {
-      js: ['React', 'Redux', 'Next', 'Meteor', 'Angular', 'React-Query',],
+      js: ['React', 'Redux', 'Next', 'Meteor', 'Angular', 'React-Query'],
       css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss', 'Less']
     },
     backEnd: ['Node.js', 'php', 'c#'],
