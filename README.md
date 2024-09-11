@@ -7,17 +7,18 @@
 const myself = {
   workingStatus: 'Frontend Engineer',
   learningBacklog: ['React 19', 'Rust'],
-  languages: ['Javascript', 'Java', 'C#', 'PHP'],
+  languages: ['Javascript', 'Java', 'C#', 'PHP', 'Python', 'C/C++'],
   misc: ['HTML', 'CSS', 'TypeScript'],
   tools: {
     mobile: ['Ionic', 'React Native'],
     frontEnd: {
-      js: ['React', 'Redux', 'Next', 'Meteor', 'Angular', 'React-Query'],
-      css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss', 'Less']
+      js: ['React', 'Redux', 'Next', 'Meteor', 'Angular', 'Vue', 'Svelte'],
+      css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss']
     },
-    backEnd: ['Node.js', 'php', 'c#'],
-    testing: ['Jest', 'react-testing-library', 'cypress', 'PlayWright', 'mocha', 'chai'],
-    database: ['MongoDB', 'Postgres', 'MySQL', 'GraphQL'],
+    backEnd: ['Node.js', 'PHP', 'C#'],
+    testing: ['Jest', 'Vitest', 'react-testing-library', 'cypress', 'PlayWright', 'mocha', 'chai'],
+    misc: ['GraphQL']
+    database: ['MongoDB', 'Postgres', 'MySQL'],
   },
   hobbies: ['anime', 'nintendo', 'manga', 'nba', 'pets'],
 }
