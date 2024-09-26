@@ -16,7 +16,7 @@ const myself = {
       css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss']
     },
     backEnd: ['Node.js', 'PHP', 'C#'],
-    testing: ['Jest', 'Vitest', 'react-testing-library', 'cypress', 'PlayWright', 'mocha', 'chai'],
+    testing: ['Jest', 'Vitest', 'Testing Library', 'Cypress', 'PlayWright', 'mocha', 'chai'],
     misc: ['GraphQL', 'Meteor']
     database: ['MongoDB', 'Postgres', 'MySQL'],
   },
