@@ -7,17 +7,17 @@
 const myself = {
   workingStatus: 'Frontend Engineer',
   learningBacklog: ['React 19', 'Rust'],
-  languages: ['Javascript', 'Java', 'C#', 'PHP', 'Python', 'C/C++'],
+  languages: ['JavaScript', 'Java', 'C#', 'PHP', 'C++'],
   misc: ['HTML', 'CSS', 'TypeScript'],
   tools: {
     mobile: ['Ionic', 'React Native'],
     frontEnd: {
-      js: ['React', 'Redux', 'Next', 'Meteor', 'Angular', 'Vue', 'Svelte'],
+      js: ['React', 'Redux', 'Next', 'Angular', 'Vue', 'Svelte'],
       css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss']
     },
     backEnd: ['Node.js', 'PHP', 'C#'],
     testing: ['Jest', 'Vitest', 'react-testing-library', 'cypress', 'PlayWright', 'mocha', 'chai'],
-    misc: ['GraphQL']
+    misc: ['GraphQL', 'Meteor']
     database: ['MongoDB', 'Postgres', 'MySQL'],
   },
   hobbies: ['anime', 'nintendo', 'manga', 'nba', 'pets'],
