@@ -17,7 +17,7 @@ const myself = {
     },
     backEnd: ['Node.js', 'PHP', 'C#'],
     testing: ['Jest', 'Vitest', 'Testing Library', 'Cypress', 'PlayWright', 'mocha', 'chai'],
-    misc: ['GraphQL', 'Meteor']
+    misc: ['GraphQL', 'Meteor'],
     database: ['MongoDB', 'Postgres', 'MySQL'],
   },
   hobbies: ['anime', 'nintendo', 'manga', 'nba', 'pets'],
