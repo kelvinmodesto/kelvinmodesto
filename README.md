@@ -6,8 +6,8 @@
 ```javascript
 const myself = {
   workingStatus: 'Frontend Engineer',
-  learningBacklog: ['React 19', 'Web3', 'Blockchain', 'WebGL', 'WebGPU'],
-  languages: ['JavaScript', 'Java', 'C#', 'PHP', 'C++'],
+  learningBacklog: ['React 19', 'Web3', 'Blockchain', 'WebGL', 'WebGPU', 'WebML', 'AI tools for Web development'],
+  languages: ['JavaScript', 'Java', 'C#', 'PHP', 'C++', 'Rust', 'Python'],
   misc: ['HTML', 'CSS', 'TypeScript'],
   tools: {
     mobile: ['Ionic', 'React Native'],
