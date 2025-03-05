@@ -7,7 +7,7 @@
 const myself = {
   workingStatus: 'Frontend Engineer',
   learningBacklog: ['React 19', 'Web3', 'Blockchain', 'WebGL', 'WebGPU', 'WebML', 'AI tools for Web development'],
-  languages: ['JavaScript', 'Java', 'C#', 'PHP', 'C++', 'Rust', 'Python'],
+  languages: ['JavaScript', 'C#', 'PHP', 'C++', 'Rust', 'Python'],
   misc: ['HTML', 'CSS', 'TypeScript'],
   tools: {
     mobile: ['Ionic', 'React Native'],
@@ -15,7 +15,7 @@ const myself = {
       js: ['React', 'Redux', 'Next', 'Angular', 'Vue', 'Svelte'],
       css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss']
     },
-    backEnd: ['Node.js', 'PHP', 'C#'],
+    backEnd: ['Node.js', 'PHP', 'C#', 'Rust'],
     testing: ['Jest', 'Vitest', 'Testing Library', 'Cypress', 'PlayWright', 'mocha', 'chai'],
     misc: ['GraphQL', 'Meteor'],
     database: ['MongoDB', 'Postgres', 'MySQL'],
