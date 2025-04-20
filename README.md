@@ -6,17 +6,17 @@
 ```javascript
 const myself = {
   workingStatus: 'Frontend Engineer',
-  learningBacklog: ['React 19', 'Web3', 'Blockchain', 'WebGL', 'WebGPU', 'WebML', 'AI tools for Web development'],
-  languages: ['JavaScript', 'C#', 'PHP', 'C++', 'Rust', 'Python'],
+  learningBacklog: ['React 19', 'WebGL', 'WebGPU', 'WebML', 'AI tools for Web development', 'Rust', 'MCP'],
+  languages: ['JavaScript', 'C#', 'PHP'],
   misc: ['HTML', 'CSS', 'TypeScript'],
   tools: {
     mobile: ['Ionic', 'React Native'],
     frontEnd: {
       js: ['React', 'Redux', 'Next', 'Angular', 'Vue', 'Svelte'],
-      css: ['material-ui', 'Tailwind', 'Ant Design', 'Styled Components', 'bulma', 'bootstrap', 'emotion', 'Scss']
+      css: ['material-ui', 'Tailwind', 'Ant Design', 'bulma', 'bootstrap', 'emotion', 'Scss']
     },
     backEnd: ['Node.js', 'PHP', 'C#', 'Rust'],
-    testing: ['Jest', 'Vitest', 'Testing Library', 'Cypress', 'PlayWright', 'mocha', 'chai'],
+    testing: ['Jest', 'Vitest', 'Testing Library', 'Cypress', 'PlayWright'],
     misc: ['GraphQL', 'Meteor'],
     database: ['MongoDB', 'Postgres', 'MySQL'],
   },
