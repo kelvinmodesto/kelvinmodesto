@@ -6,7 +6,7 @@
 ```javascript
 const myself = {
   workingStatus: 'Software Engineer',
-  learningBacklog: ['React 19', 'AI tools for Web development', 'Rust', 'MCP'],
+  learningBacklog: ['React 19', 'Rust', 'MCP'],
   languages: ['JavaScript', 'C#', 'PHP'],
   misc: ['HTML', 'CSS', 'TypeScript'],
   tools: {
