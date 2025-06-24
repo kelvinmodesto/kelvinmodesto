@@ -11,7 +11,7 @@ const myself = {
   misc: ['HTML', 'CSS', 'TypeScript'],
   mobile: ['Ionic', 'React Native'],
   js: ['React', 'Redux', 'Next', 'Angular', 'Vue', 'Svelte'],
-  css: ['Material UI', 'Tailwind', 'Ant Design','Bootstrap', 'Emotion', 'SCSS']
+  css: ['Material UI', 'Tailwind', 'Ant Design','Bootstrap', 'Emotion', 'SCSS'],
   testing: ['Jest', 'Vitest', 'Testing Library', 'Cypress', 'PlayWright'],
   misc: ['GraphQL', 'Meteor', 'Docker'],
   database: ['MongoDB', 'Postgres', 'MySQL', 'OracleDB'],
