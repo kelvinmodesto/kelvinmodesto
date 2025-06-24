@@ -9,17 +9,13 @@ const myself = {
   learningBacklog: ['React 19', 'Rust', 'MCP'],
   languages: ['JavaScript', 'C#', 'PHP'],
   misc: ['HTML', 'CSS', 'TypeScript'],
-  tools: {
-    mobile: ['Ionic', 'React Native'],
-    frontEnd: {
-      js: ['React', 'Redux', 'Next', 'Angular', 'Vue', 'Svelte'],
-      css: ['Material UI', 'Tailwind', 'Ant Design','Bootstrap', 'Emotion', 'SCSS']
-    },
-    backEnd: ['Node.js', 'PHP', 'C#'],
-    testing: ['Jest', 'Vitest', 'Testing Library', 'Cypress', 'PlayWright'],
-    misc: ['GraphQL', 'Meteor', 'Docker'],
-    database: ['MongoDB', 'Postgres', 'MySQL', 'OracleDB'],
-  },
+  mobile: ['Ionic', 'React Native'],
+  js: ['React', 'Redux', 'Next', 'Angular', 'Vue', 'Svelte'],
+  css: ['Material UI', 'Tailwind', 'Ant Design','Bootstrap', 'Emotion', 'SCSS']
+  testing: ['Jest', 'Vitest', 'Testing Library', 'Cypress', 'PlayWright'],
+  misc: ['GraphQL', 'Meteor', 'Docker'],
+  database: ['MongoDB', 'Postgres', 'MySQL', 'OracleDB'],
+  cloud: ['AWS', 'Azure', 'GCP'],
   hobbies: ['anime', 'nintendo', 'manga', 'nba', 'pets'],
 }
 ```
