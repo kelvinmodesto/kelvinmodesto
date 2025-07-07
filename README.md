@@ -1,7 +1,6 @@
 
 # 💫 About Me:
 👋 Hi, I'm Kelvin Modesto — JavaScript & Rust Developer @ DawnDev<br><br>I'm a software developer passionate about building fast, reliable, and modern applications using **Rust** and **JavaScript/TypeScript**. Currently, I work at **DawnDev**, where I craft efficient backend systems and web solutions that scale.<br><br>
-
 ### 🔧 What I Do
 - 🦀 **Rust** for performance-critical services, CLI tools, and backend systems<br>
 - ⚡ **JavaScript/TypeScript/React.js** for frontend development and quick iterations<br>-  🧠 Learning **AWS** to sharpen my cloud skills and earn certifications<br>
