@@ -7,7 +7,7 @@
 -  🧠 Learning **AWS** to sharpen my cloud skills and earn certifications<br>
 - 🔗 Exploring **Blockchain** & **Web3** — smart contracts, decentralization, and trustless systems<br><br>
 
-### 📫 Let’s Connect<br>I'm willing to collaborate in any interesting project in JavaScript/Rust
+#### 📫 I'm willing to collaborate in any interesting project in JavaScript/Rust
 
 
 ## 🌐 Socials:
