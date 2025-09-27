@@ -5,7 +5,6 @@
 - ⚡ **JavaScript/TypeScript/React.js** for frontend development and quick iterations<br>
 - 🦀 **Rust** for performance-critical services, CLI tools, and backend systems<br>
 - :rocket: **Node.js** for event-driven and easy to scale applications<br>
-- 🔗 Exploring **Blockchain** & **Web3** — smart contracts, decentralization, and trustless systems<br><br>
 
 #### 📫 I'm willing to collaborate in any interesting project in JavaScript/Rust
 
